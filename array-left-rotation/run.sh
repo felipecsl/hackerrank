@@ -1,0 +1,1 @@
+stack build && cat input.txt| stack exec array-left-rotation-exe
